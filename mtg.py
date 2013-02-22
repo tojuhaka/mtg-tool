@@ -6,7 +6,7 @@ def _enum(**enums):
     # Used to make life easier with indexes
     return type('Enum', (), enums)
 
-CARDINFO = _enum(NAME=0, COLOR=1, VALUE=2, COUNT=3)
+CARDINFO = _enum(NAME=0, COLOR=1, VALUE=2, COUNT=3, EXTRA=4)
 
 # u = blue, b = black, r = red, g = green, w = white
 # m = multicolor, a = artifact, c = colorless
@@ -32,9 +32,10 @@ def render(output_file):
         cards[color] = sorted(
             cards[color], key=lambda card: card[CARDINFO.VALUE], reverse=True)
         for card in cards[color]:
-            f.write("%sx [card]%s[/card]\n"
+            f.write("%sx [card]%s[/card] (%s)\n"
                     % (card[CARDINFO.COUNT],
-                       card[CARDINFO.NAME]))
+                       card[CARDINFO.NAME],
+                       card[CARDINFO.EXTRA]))
         f.write('\n')
 
 

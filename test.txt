@@ -1,6 +1,6 @@
-Grove of the burnwillows|c|14|1
-Necropotence|b|5|2
-Sword of fire and ice|a|15|3
-Sword of light and shadow|a|10|3
-dissipate|a|13|3
-dissipate|a|13|3
+Grove of the burnwillows|c|14|1|
+Necropotence|b|5|2|
+Sword of fire and ice|a|15|3|
+Sword of light and shadow|a|10|3|
+dissipate|a|13|3|
+dissipate|a|13|3|
