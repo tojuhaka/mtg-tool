@@ -1,0 +1,11 @@
+Artifact
+3x [card]sword of fire and ice[/card] ()
+3x [card]dissipate[/card] ()
+3x [card]sword of light and shadow[/card] ()
+
+Colorless
+1x [card]grove of the burnwillows[/card] ()
+
+Black
+2x [card]necropotence[/card] ()
+

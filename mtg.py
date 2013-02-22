@@ -12,6 +12,9 @@ CARDINFO = _enum(NAME=0, COLOR=1, VALUE=2, COUNT=3, EXTRA=4)
 # m = multicolor, a = artifact, c = colorless
 cards = {}
 
+color_graph = {'u': 'Blue', 'b': 'Black', 'g': 'Green', 'w': 'White',
+               'm': 'Multicolor', 'a': 'Artifact', 'c': 'Colorless'}
+
 
 def add_card(card_tuple):
     name, color, value, count, extra = card_tuple
@@ -28,7 +31,7 @@ def add_card(card_tuple):
 def render(output_file):
     f = open(output_file, 'w')
     for color in cards:
-        f.write(color + '\n')
+        f.write(color_graph[color] + '\n')
         cards[color] = sorted(
             cards[color], key=lambda card: card[CARDINFO.VALUE], reverse=True)
         for card in cards[color]:
