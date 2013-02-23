@@ -1,3 +1,85 @@
 Grove of the burnwillows|l|15|1|
 Necropotence|b|5|1|
 Sword of fire and ice|a|15|1|
+Carven Caryatid|g|0|1|
+Silvos, Rogue elemental|g|0|1|
+Troll Ascetic|g|1|1|
+Relic of Progenitus|a|5|1|*FOIL*
+Bituminous Blast|m|0|1|
+Empryrial Archangel|m|0|1|
+Keiga, the Tide Star|u|2|1|(saksankielinen)
+Pithing Needle|a|2|3|
+Rhystic tutor|b|0|1|
+Teysa, Orzhov Scion|m|0|1|
+Shivan Reef|l|2|2|
+Underground river|l|1|2|
+Arc-slogger|r|0|1|
+Recollect|g|0|2|
+Glare of subdual|m|0|3|
+Future Sight|u|1|1|
+Wee Dragonauts|m|0|1|
+Birds of paradise|g|3|7|(5x ravnica, 2x Revised)
+Juraga Treespeaker|g|2|1|*FOIL*
+Swords to plowshares|w|3|4|(2x IA, 1x revised, 1x 4th)
+Scion of the wild|g|0|1|
+Ulamog, the Infinite Gyre|c|17|1|
+Sarkhan the Mad|m|4|1|
+Nicol Bolas, Planeswalker|m|4|1|
+Electrolyze|m|0|2|(1x kinkki)
+Gitaxian Probe|u|0|4|
+Trickbind|u|1|2|
+Flametongue Kavu|r|1|3|
+Bogardan Hellkite|r|1|4|
+Rite of flame|r|1|4|
+Price of progress|r|3|1|
+Ancestral Mask|g|0|2|
+Planar Portal|a|1|1|
+Damping Matrix|a|1|1|
+Figure of destiny|r|4|2|(1x promo)
+Eternal Witness|g|6|2|(1x FNM FOIL)
+Argentum Armor|a|0|1|
+Aluren|g|7|1|
+Adarkar Wastes|l|2|1|
+Boseiju, Who Shelters All|l|1|1|
+Wild Mongrel|g|0|4|
+Ponder|u|1|4|
+Ranger of Eos|w|4|2|
+Mephidross Vampire|b|0|1|
+Nath of the Gilt-Leaf|m|1|1|
+Void|m|0|1|
+Path to exile|w|5|2|(1x saksankielinen)
+Genesis|g|6|1|
+Master of etherium|a|2|1|
+Lightning Greaves|a|2|1| (Kiina)
+Loxodon Hierarch|m|1|2|
+Fact or fiction|u|1|1|
+Kitchen Finks|m|7|2|
+Gifts Ungiven|u|5|4|
+2x Accumulated Knowledge|u|1|2|
+Wing shards|w|1|1|(FNM)
+Pyroclasm|r|1|2|
+Tree of tales|l|1|4|(1x foil)
+Raging Ravine|l|2|3|
+Bloodbraid Elf|m|3|2|
+Chord of Calling|g|8|2|
+Master of Warcraft|m|0|1|
+Heavy Ballista|w|1|1|
+Tidehollow Sculler|a|1|2|
+Pattern of Rebirth|g|3|1|
+Valakut, the Molten Pinnacle|r|1|4|
+Twincast|u|1|2|
+Persecute|b|1|1|
+Wonder|u|0|2|
+Energy Flux|u|0|2|
+Counterspell|u|1|X|
+Stroke of genius|u|3|1|
+Hymn to tourach|b|2|1|
+Molten Slagheap|l|0|4|
+Fungal Reaches|l|0|3|
+Condemn|w|0|2|
+Bringer of the white dawn|w|0|1|
+Life/Death|m|1|1|
+Burst Lightning|r|0|4|
+Azorius Guildmage|m|0|1|
+Brainstorm|u|1|4|
+Brainstorm|u|1|4|

@@ -12,7 +12,7 @@ CARDINFO = _enum(NAME=0, COLOR=1, VALUE=2, COUNT=3, EXTRA=4)
 # m = multicolor, a = artifact, c = colorless
 cards = {}
 
-color_graph = {'u': 'Blue', 'b': 'Black', 'g': 'Green', 'w': 'White',
+color_graph = {'u': 'Blue', 'b': 'Black', 'g': 'Green', 'w': 'White', 'r': 'Red',
         'm': 'Multicolor', 'a': 'Artifact', 'c': 'Colorless', 'l': 'Lands'}
 
 
@@ -34,7 +34,7 @@ def render(output_file):
     for color in cards:
         f.write(color_graph[color] + '\n')
         cards[color] = sorted(
-            cards[color], key=lambda card: card[CARDINFO.VALUE], reverse=True)
+            cards[color], key=lambda card: int(card[CARDINFO.VALUE]), reverse=True)
         for card in cards[color]:
             f.write("%sx [card]%s[/card] %s\n"
                     % (card[CARDINFO.COUNT],
@@ -55,7 +55,7 @@ def load(filename):
         try:
             add_card(card_tuple)
         except ValueError, e:
-            print "Error in " + cards
+            print "Error in " + card
             print e
 
 

@@ -1,9 +1,102 @@
 Artifact
 1x [card]Sword of fire and ice[/card] 
+1x [card]Relic of Progenitus[/card] *FOIL*
+3x [card]Pithing Needle[/card] 
+1x [card]Master of etherium[/card] 
+1x [card]Lightning Greaves[/card]  (Kiina)
+1x [card]Planar Portal[/card] 
+1x [card]Damping Matrix[/card] 
+2x [card]Tidehollow Sculler[/card] 
+1x [card]Argentum Armor[/card] 
+
+Colorless
+1x [card]Ulamog, the Infinite Gyre[/card] 
 
 Black
 1x [card]Necropotence[/card] 
+1x [card]Hymn to tourach[/card] 
+1x [card]Persecute[/card] 
+1x [card]Rhystic tutor[/card] 
+1x [card]Mephidross Vampire[/card] 
+
+Green
+2x [card]Chord of Calling[/card] 
+1x [card]Aluren[/card] 
+2x [card]Eternal Witness[/card] (1x FNM FOIL)
+1x [card]Genesis[/card] 
+7x [card]Birds of paradise[/card] (5x ravnica, 2x Revised)
+1x [card]Pattern of Rebirth[/card] 
+1x [card]Juraga Treespeaker[/card] *FOIL*
+1x [card]Troll Ascetic[/card] 
+1x [card]Carven Caryatid[/card] 
+1x [card]Silvos, Rogue elemental[/card] 
+2x [card]Recollect[/card] 
+1x [card]Scion of the wild[/card] 
+2x [card]Ancestral Mask[/card] 
+4x [card]Wild Mongrel[/card] 
+
+Multicolor
+2x [card]Kitchen Finks[/card] 
+1x [card]Sarkhan the Mad[/card] 
+1x [card]Nicol Bolas, Planeswalker[/card] 
+2x [card]Bloodbraid Elf[/card] 
+1x [card]Nath of the Gilt-Leaf[/card] 
+2x [card]Loxodon Hierarch[/card] 
+1x [card]Life/Death[/card] 
+1x [card]Bituminous Blast[/card] 
+1x [card]Empryrial Archangel[/card] 
+1x [card]Teysa, Orzhov Scion[/card] 
+3x [card]Glare of subdual[/card] 
+1x [card]Wee Dragonauts[/card] 
+2x [card]Electrolyze[/card] (1x kinkki)
+1x [card]Void[/card] 
+1x [card]Master of Warcraft[/card] 
+1x [card]Azorius Guildmage[/card] 
 
 Lands
 1x [card]Grove of the burnwillows[/card] 
+2x [card]Shivan Reef[/card] 
+1x [card]Adarkar Wastes[/card] 
+3x [card]Raging Ravine[/card] 
+2x [card]Underground river[/card] 
+1x [card]Boseiju, Who Shelters All[/card] 
+4x [card]Tree of tales[/card] (1x foil)
+4x [card]Molten Slagheap[/card] 
+3x [card]Fungal Reaches[/card] 
+
+Red
+2x [card]Figure of destiny[/card] (1x promo)
+1x [card]Price of progress[/card] 
+3x [card]Flametongue Kavu[/card] 
+4x [card]Bogardan Hellkite[/card] 
+4x [card]Rite of flame[/card] 
+2x [card]Pyroclasm[/card] 
+4x [card]Valakut, the Molten Pinnacle[/card] 
+1x [card]Arc-slogger[/card] 
+4x [card]Burst Lightning[/card] 
+
+Blue
+4x [card]Gifts Ungiven[/card] 
+1x [card]Stroke of genius[/card] 
+1x [card]Keiga, the Tide Star[/card] (saksankielinen)
+1x [card]Future Sight[/card] 
+2x [card]Trickbind[/card] 
+4x [card]Ponder[/card] 
+1x [card]Fact or fiction[/card] 
+2x [card]2x Accumulated Knowledge[/card] 
+2x [card]Twincast[/card] 
+Xx [card]Counterspell[/card] 
+4x [card]Brainstorm[/card] 
+4x [card]Gitaxian Probe[/card] 
+2x [card]Wonder[/card] 
+2x [card]Energy Flux[/card] 
+
+White
+2x [card]Path to exile[/card] (1x saksankielinen)
+2x [card]Ranger of Eos[/card] 
+4x [card]Swords to plowshares[/card] (2x IA, 1x revised, 1x 4th)
+1x [card]Wing shards[/card] (FNM)
+1x [card]Heavy Ballista[/card] 
+2x [card]Condemn[/card] 
+1x [card]Bringer of the white dawn[/card] 
 
