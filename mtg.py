@@ -13,11 +13,12 @@ CARDINFO = _enum(NAME=0, COLOR=1, VALUE=2, COUNT=3, EXTRA=4)
 cards = {}
 
 color_graph = {'u': 'Blue', 'b': 'Black', 'g': 'Green', 'w': 'White',
-               'm': 'Multicolor', 'a': 'Artifact', 'c': 'Colorless'}
+        'm': 'Multicolor', 'a': 'Artifact', 'c': 'Colorless', 'l': 'Lands'}
 
 
 def add_card(card_tuple):
     name, color, value, count, extra = card_tuple
+    color = color.lower()
     #sort by color
     if color in cards:
         if not card_tuple in cards[color]:
@@ -35,7 +36,7 @@ def render(output_file):
         cards[color] = sorted(
             cards[color], key=lambda card: card[CARDINFO.VALUE], reverse=True)
         for card in cards[color]:
-            f.write("%sx [card]%s[/card] (%s)\n"
+            f.write("%sx [card]%s[/card] %s\n"
                     % (card[CARDINFO.COUNT],
                        card[CARDINFO.NAME],
                        card[CARDINFO.EXTRA]))
@@ -49,8 +50,8 @@ def load(filename):
     for card in card_list:
         # convert line to tuple and get the values
         # remove the last two characters: \n
-        card = card.lower()[:-1]
-        card_tuple = tuple(card.lower().split('|'))
+        card = card[:-1]
+        card_tuple = tuple(card.split('|'))
         try:
             add_card(card_tuple)
         except ValueError, e:
